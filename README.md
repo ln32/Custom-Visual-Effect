@@ -1,6 +1,9 @@
 ![image](https://github.com/ln32/CustomVoronoi/assets/94381505/84f5f329-117a-42ed-807d-51bbd8da9c8b)
 
-![image](https://github.com/ln32/CustomVoronoi/assets/94381505/b87fffc5-1a73-4f7d-9b31-330b85d28712)
+hlsl code - raw voronoi data 를 Stained glass 로 전환 
 
 
-hlsl code - Parse to raw voronoi data to 	Stained glass 
+
+![image](https://github.com/ln32/CustomVoronoi/assets/94381505/b92a2b1f-a384-4e94-a966-2593f3d58b8d)
+
+Before and after use
