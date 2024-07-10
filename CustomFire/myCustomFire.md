@@ -1,11 +1,10 @@
-배경 : 게임의 광원 효과를 내려 원형 sprite로 빛을 구현하니 너무 인위적인 감이 있어 카툰적 표현으로 광원 구현을 해보려 함
+![fireGif_1](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/02bd3d2d-2689-4e54-bab1-0a5377a96bc3)
 
-![image](https://github.com/ln32/CustomVoronoi/assets/94381505/84f5f329-117a-42ed-807d-51bbd8da9c8b)
-
-hlsl code - raw voronoi data 를 Stained glass 로 전환 
+![fireGif_2](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/42455cb9-1802-46e0-855b-e2eda24c947d)
 
 
+UV 왜곡을 통한 불꽃 일렁임 구현과 해당 영역에 알파값을 1이상으로 할당한 후, 포스트프로세싱을 통해 불꽃 쉐이더를 구현. 
 
-![image](https://github.com/ln32/CustomVoronoi/assets/94381505/b92a2b1f-a384-4e94-a966-2593f3d58b8d)
 
-사용전후
+![image](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/86fe7ccc-99f5-41fc-9d78-d844e61df99d)
+위는 포스트 프로세싱이 없을 때의 출력
