@@ -23,8 +23,12 @@ hlsl code - raw voronoi data 를 Stained glass 로 전환
 ㄴ 전후비교
 
 
+
+
 # 2_PopGainEffect
 추가중
+
+
 
 
 
@@ -34,6 +38,7 @@ hlsl code - raw voronoi data 를 Stained glass 로 전환
 ![Animation3](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/afb3eaae-9999-48f8-9b4e-856b34105847)
 
 개발하며 인상깊은 포인트) 애매하면 여러 효과를 겹치고 유효 영역을 계산하자
+
 
 
 
@@ -49,6 +54,8 @@ UV 왜곡을 통한 불꽃 일렁임 구현과 해당 영역에 알파값을 1�
 ![image](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/86fe7ccc-99f5-41fc-9d78-d844e61df99d)
 
 위는 포스트 프로세싱이 없을 때의 출력
+
+
 
 
 
