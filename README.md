@@ -8,7 +8,7 @@
 - [0. Acknowledgement](#0.Acknowledgement)
 
 
-# 1.CustomVoronoi
+# 1. CustomVoronoi
 <details>
   <summary> CustomVoronoi Contents </summary>
   배경 : 게임의 광원 효과를 내려 원형 sprite로 빛을 구현하니 너무 인위적인 감이 있어 카툰적 표현으로 광원 구현을 해보려 함
@@ -28,7 +28,7 @@
 
 
 
-# 2.PopGainEffect
+# 2. PopGainEffect
 <details>
   <summary> PopGainEffect Contents </summary>
   배경 : 추가중
@@ -36,7 +36,7 @@
 
 
 
-# 3.FogEffect_SceneChange
+# 3. FogEffect_SceneChange
 <details>
   <summary> FogEffect_SceneChange Contents </summary>
   구현 배경 : 게임의 씬 이동간에, 화면을 검게 변환시킬 중간 단계를 구현하는 쉐이더가 필요함을 느낌
@@ -48,7 +48,7 @@
 
 
 
-# 4.myCustomFire
+# 4. myCustomFire
 <details>
   <summary> myCustomFire Contents </summary>
   ![fireGif_1](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/02bd3d2d-2689-4e54-bab1-0a5377a96bc3)
@@ -68,5 +68,5 @@
 
 
 
-# 0.Acknowledgement
+# 0. Acknowledgement
 - (https://github.com/dev-ujin/awesome-readme-template/blob/master/res-readme/README-KO.md#features)
