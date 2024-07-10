@@ -31,6 +31,7 @@
 # [2] PopGainEffect
 <details>
   <summary> PopGainEffect Contents </summary>
+  
   ![myCoin](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/1127a360-a2a9-45fa-88b8-09d716342a9e)
 
   인상깊던 포인트) 어려웠던 구현을 2가지 개별구현으로 하니 쉽게 구현이 되던 재밌던 경험
