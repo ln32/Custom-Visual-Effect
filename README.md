@@ -3,7 +3,7 @@
 # Table of Contents
 - [[1] CustomVoronoi](#1-CustomVoronoi)
 - [[2] PopGainEffect](#2-PopGainEffect)
-- [[3] FogEffect_SceneChange](#3-FogEffect-SceneChange)
+- [[3] FogEffect_SceneChange](#3-FogEffect_SceneChange)
 - [[4] CustomFire](#4-CustomFire)
 - [[0] Acknowledgement](#0-Acknowledgement)
 
