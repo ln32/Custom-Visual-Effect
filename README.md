@@ -21,7 +21,7 @@
   
   ![image](https://github.com/ln32/CustomVoronoi/assets/94381505/b92a2b1f-a384-4e94-a966-2593f3d58b8d)
   
-  ㄴ 전후비교
+  Stained glass 전후비교
 </details>
 
 
@@ -34,8 +34,11 @@
   
   ![myCoin](https://github.com/ln32/Custom-Visual-Effect/assets/94381505/1127a360-a2a9-45fa-88b8-09d716342a9e)
 
-  인상깊던 포인트) 어려웠던 구현을 2가지 개별구현으로 하니 쉽게 구현이 되던 재밌던 경험
-    ( 점을 중심으로 방사 후 모이는 이펙트, 시작점에서 목표점으로 등속이동 하는 코드)
+  인상깊던 포인트. 
+  
+    어려웠던 구현을 2가지 개별구현으로 하니 쉽게 구현이 되던 재밌던 경험
+    
+    ( 점을 중심으로 방사 후 모이는 이펙트, 시작점에서 목표점으로 등가속이동 하는 코드)
 
 </details>
 
